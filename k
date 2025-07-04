@@ -61,16 +61,6 @@ i really like u
   <button onclick="showMore()">Click to Read More</button>
 </div>
 
-<script>
-  function showMore() {
-    document.getElementById("message").innerHTML += `
-      <br><br>
-      HAHHAHAAHAHAHAHHA gusto talaga kita, kung alam mo lang
-handa akong sirain body clock ko para sayo WHAHAHAHHAHAHAAHAAHAH
-    `;
-  }
-</script>
-
 </body>
 </html>
 
